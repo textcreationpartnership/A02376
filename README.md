@@ -36,9 +36,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A necessary discourse concerning the right which the house of Guyze pretendeth to the crowne of Fran
+
 #####Body#####
-A necessary discourse concerning the right which the house of Guyze pretendeth to the crowne of Fran
+
+1. A diſcourſe concerning the pretended right of the houſe of Guyze to the houſe of France.
+
 **Types of content**
 
   * There are 15 **verse** lines!
